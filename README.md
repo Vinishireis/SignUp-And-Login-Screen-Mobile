@@ -4,7 +4,8 @@ A pen created on Vinishireis
 
 Login Screen SignUp
 
-[Login SignUp and Login Screen](../../Videos/Screen_recording_20240420_194253.webm)
+![Screen_recording_20240420_194253](https://github.com/Vinishireis/SignUp-And-Login-Screen-Mobile/assets/95651095/bc5620dc-6a4d-4313-b407-173734b21359)
+
 
 ## Getting Started
 
