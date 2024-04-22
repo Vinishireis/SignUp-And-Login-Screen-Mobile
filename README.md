@@ -4,7 +4,7 @@ A pen created on Vinishireis
 
 Login Screen SignUp
 
-![Screen_recording_20240420_194253](https://github.com/Vinishireis/SignUp-And-Login-Screen-Mobile/assets/95651095/bc5620dc-6a4d-4313-b407-173734b21359)
+<img src="https://github.com/Vinishireis/SignUp-And-Login-Screen-Mobile/assets/95651095/bc5620dc-6a4d-4313-b407-173734b21359" alt="Screen_recording_20240420_194253" height="800px" width="400px">
 
 
 ## Getting Started
@@ -20,6 +20,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Login/SignUp](image.png)
-![Login Screen](image-1.png)
-![SignUp Screen](image-2.png)
+<img src="image.png" alt="Login/SignUp" width="300px" height="400px"> <img src="image-1.png" alt="Login Screen" width="300px" height="400px"> <img src="image-2.png" alt="SignUp Screen" height="400px" width="300px">
